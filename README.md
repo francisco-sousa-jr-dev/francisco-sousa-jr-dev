@@ -38,6 +38,6 @@ Depois de anos planejando rotas e cumprindo prazos como **motorista carreteiro**
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+![LinkedIn em breve](https://img.shields.io/badge/LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 [![E-mail](https://img.shields.io/badge/E--mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:junior_2931@yahoo.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-F5A524?style=for-the-badge&logo=githubpages&logoColor=black)](https://francisco-sousa-jr-dev.github.io/portfolio/)
