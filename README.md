@@ -1,17 +1,17 @@
-# Olá, eu sou o Francisco Junior 👋
+# Olá, eu sou o Francisco Junior
 
 ### Desenvolvedor Júnior em formação · Análise e Desenvolvimento de Sistemas
 
 Depois de anos planejando rotas e cumprindo prazos como **motorista carreteiro**, estou em **transição de carreira para a Tecnologia**. Levo da estrada para o código o que ela me ensinou: planejamento, atenção a detalhes e responsabilidade com prazos e normas.
 
-- 🎓 Cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** (Anhanguera)
-- 🌱 Estudando **Python, Java, JavaScript e SQL**
-- 🎯 Buscando minha **primeira oportunidade como Desenvolvedor Júnior**
-- 📍 Itapevi – SP
+-  Cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** (Anhanguera)
+-  Estudando **Python, Java, JavaScript e SQL**
+-  Buscando minha **primeira oportunidade como Desenvolvedor Júnior**
+-  Itapevi – SP
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +23,7 @@ Depois de anos planejando rotas e cumprindo prazos como **motorista carreteiro**
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -32,11 +32,11 @@ Depois de anos planejando rotas e cumprindo prazos como **motorista carreteiro**
 | [Lista de Tarefas](https://github.com/francisco-sousa-jr-dev/lista-de-tarefas) | App web com filtros e dados salvos no navegador | HTML · CSS · JS |
 | [Calculadora de IMC](https://github.com/francisco-sousa-jr-dev/calculadora-imc) | Cálculo e classificação do IMC com validação de entrada | Python |
 
-🌐 **Portfólio completo:** https://francisco-sousa-jr-dev.github.io/portfolio/
+**Portfólio completo:** https://francisco-sousa-jr-dev.github.io/portfolio/
 
 ---
 
-### 📫 Contato
+### Contato
 
 ![LinkedIn em breve](https://img.shields.io/badge/LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 [![E-mail](https://img.shields.io/badge/E--mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:junior_2931@yahoo.com)
